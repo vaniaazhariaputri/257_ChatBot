@@ -23,6 +23,7 @@ userInput.addEventListener("keydown", (e) => {
 });
 
 // Fungsi menambah gelembung chat ke layar
+// menambahkan fungsi
 function appendMessage(role, text = "") {
     const messageDiv = document.createElement("div");
     messageDiv.classList.add("message", role === "user" ? "user-message" : "bot-message");
