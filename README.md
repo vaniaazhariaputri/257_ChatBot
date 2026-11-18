@@ -2,3 +2,5 @@
 deploy
 <img width="757" height="831" alt="image" src="https://github.com/user-attachments/assets/ad784373-9e44-4087-b9fb-a3867151e8ea" />
 gambar chatbot
+<img width="1915" height="1047" alt="image" src="https://github.com/user-attachments/assets/0145a238-d4dc-46e7-bb51-e7db2fe4cef6" />
+hasil deploy varcal
